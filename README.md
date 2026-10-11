@@ -1,4 +1,4 @@
-# PE Triage Analysis
+# PELens - PE Triage Analysis
 
 A local dashboard for static analysis of Windows Portable Executable (PE) files. The project parses samples, disassembles x86/x64 code, highlights functions for review, and saves findings in SQLite. It does not execute the sample.
 
